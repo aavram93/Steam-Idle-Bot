@@ -1,6 +1,6 @@
-# Steam Spiele Idler
+# Steam Hour Idler
 ________
-# Benötigt:
+# You need:
 
 -NodeJS
 
@@ -10,5 +10,5 @@ ________
 ________
 # Bugs:
 
--Fordert keinen Steam Guard Code an
+-Steam Guard function not working
 ________
