@@ -1,4 +1,4 @@
-# Steam Hour Idler
+# Steam Hour Idle Script
 ________
 Most of the Code is German cause i am German :P
 ________
