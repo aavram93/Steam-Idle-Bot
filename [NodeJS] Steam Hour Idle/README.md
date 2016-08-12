@@ -1,5 +1,7 @@
 # Steam Hour Idler
 ________
+Most of the Code is German cause i am German :P
+________
 # You need:
 
 -NodeJS
