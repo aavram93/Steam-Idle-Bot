@@ -8,4 +8,6 @@ ________
 
 -fs
 ________
+# Bugs:
 
+-Fordert keinen Steam Guard Code an
