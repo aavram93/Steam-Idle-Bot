@@ -33,7 +33,7 @@ bot.on('loggedOn', function() {
     // Anzeigend das der Bot Online ist
     bot.setPersonaState(Steam.EPersonaState.Online);
     // Name Wechseln
-    bot.setPersonaName('[BOT]');
+    bot.setPersonaName('[BOT] RaIN');
     // Spiele die der Bot "Farmen" soll. (APP IDs Angeben!)
     bot.gamesPlayed([10,80,240,730,440]);
     // Beispiele:
@@ -73,29 +73,31 @@ bot.on('friendMsg', function(user, message, type) {
         
         // Automatische Nachricht Senden
         if (message == 'hi')
-	    bot.sendMessage(user, "[BOT] Ich Farme grad nur Stunden.", Steam.EChatEntryType.ChatMsg);
+	    bot.sendMessage(user, "[BOT] Hi, RaIN ist leider nicht da aber du kannst ja später wieder kommen :).", Steam.EChatEntryType.ChatMsg);
         if (message == 'hey')
-	    bot.sendMessage(user, "[BOT] Ich Farme grad nur Stunden.", Steam.EChatEntryType.ChatMsg);
+	    bot.sendMessage(user, "[BOT] Hi, RaIN ist leider nicht da aber du kannst ja später wieder kommen :)", Steam.EChatEntryType.ChatMsg);
         if (message == 'na')
-	    bot.sendMessage(user, "[BOT] Ich Farme grad nur Stunden.", Steam.EChatEntryType.ChatMsg);
+	    bot.sendMessage(user, "[BOT] Hi, RaIN ist leider nicht da aber du kannst ja später wieder kommen :)", Steam.EChatEntryType.ChatMsg);
         if (message == 'wie gehts')
-	    bot.sendMessage(user, "[BOT] Ich Farme grad nur Stunden.", Steam.EChatEntryType.ChatMsg);
-        if (message == 'ey')
-	    bot.sendMessage(user, "[BOT] Ich Farme grad nur Stunden.", Steam.EChatEntryType.ChatMsg);
-        if (message == 'Hi')
-	    bot.sendMessage(user, "[BOT] Ich Farme grad nur Stunden.", Steam.EChatEntryType.ChatMsg);
-        if (message == 'Hey')
-	    bot.sendMessage(user, "[BOT] Ich Farme grad nur Stunden.", Steam.EChatEntryType.ChatMsg);
-        if (message == 'Na')
-	    bot.sendMessage(user, "[BOT] Ich Farme grad nur Stunden.", Steam.EChatEntryType.ChatMsg);
-        if (message == 'Ey')
-	    bot.sendMessage(user, "[BOT] Ich Farme grad nur Stunden.", Steam.EChatEntryType.ChatMsg);
-        if (message == 'Wie gehts?')
-	    bot.sendMessage(user, "[BOT] Ich Farme grad nur Stunden.", Steam.EChatEntryType.ChatMsg);
-        if (message == 'wie gehts?')
-	    bot.sendMessage(user, "[BOT] Ich Farme grad nur Stunden.", Steam.EChatEntryType.ChatMsg);
+	    bot.sendMessage(user, "[BOT] Mir geht es gut, ich muss jetzt wirklich weiter Arbeiten ok?", Steam.EChatEntryType.ChatMsg);
         if (message == 'Wie gehts')
-	    bot.sendMessage(user, "[BOT] Ich Farme grad nur Stunden.", Steam.EChatEntryType.ChatMsg);
+	    bot.sendMessage(user, "[BOT] Mir geht es gut, ich muss jetzt wirklich weiter Arbeiten ok?", Steam.EChatEntryType.ChatMsg);
+        if (message == 'ey')
+	    bot.sendMessage(user, "[BOT] Hi, RaIN ist leider nicht da aber du kannst ja später wieder kommen :).", Steam.EChatEntryType.ChatMsg);
+        if (message == 'Hi')
+	    bot.sendMessage(user, "[BOT] Hi, RaIN ist leider nicht da aber du kannst ja später wieder kommen :).", Steam.EChatEntryType.ChatMsg);
+        if (message == 'Hey')
+	    bot.sendMessage(user, "[BOT] Hi, RaIN ist leider nicht da aber du kannst ja später wieder kommen :).", Steam.EChatEntryType.ChatMsg);
+        if (message == 'Na')
+	    bot.sendMessage(user, "[BOT] Hi, RaIN ist leider nicht da aber du kannst ja später wieder kommen :).", Steam.EChatEntryType.ChatMsg);
+        if (message == 'Ey')
+	    bot.sendMessage(user, "[BOT] Ey! RaIN ist leider nicht da aber du kannst ja später wieder kommen.", Steam.EChatEntryType.ChatMsg);
+        if (message == 'Wie gehts?')
+	    bot.sendMessage(user, "[BOT] Mir geht es gut, ich muss jetzt wirklich weiter Arbeiten ok?", Steam.EChatEntryType.ChatMsg);
+        if (message == 'wie gehts?')
+	    bot.sendMessage(user, "[BOT] Mir geht es gut, ich muss jetzt wirklich weiter Arbeiten ok?", Steam.EChatEntryType.ChatMsg);
+        if (message == 'Wie gehts')
+	    bot.sendMessage(user, "[BOT] Mir geht es gut, ich muss jetzt wirklich weiter Arbeiten ok?", Steam.EChatEntryType.ChatMsg);
     }
 });
 
