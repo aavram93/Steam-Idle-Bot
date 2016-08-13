@@ -44,7 +44,7 @@ bot.on('loggedOn', function() {
     // Team Fortress 2                             440
 });
 
-// Automatisches Anmelden falls nicht Eingeloggt (Standart: Pr¸fe jede 2 Minuten)
+// Automatisches Anmelden falls nicht Eingeloggt (Standart: Pr√ºfe jede 2 Minuten)
 bot.on('setInterval', function() {
     if(!bot.loggedOn) {
         bot.logOn(userInfo);
@@ -73,25 +73,25 @@ bot.on('friendMsg', function(user, message, type) {
         
         // Automatische Nachricht Senden
         if (message == 'hi')
-	    bot.sendMessage(user, "Hi, Mein Meister ist leider nicht da aber du kannst ja sp‰ter wieder kommen :).", Steam.EChatEntryType.ChatMsg);
+	    bot.sendMessage(user, "Hi, Mein Meister ist leider nicht da aber du kannst ja sp√§ter wieder kommen :).", Steam.EChatEntryType.ChatMsg);
         if (message == 'hey')
-	    bot.sendMessage(user, "Hey, Mein Meister ist leider nicht da aber du kannst ja sp‰ter wieder kommen :)", Steam.EChatEntryType.ChatMsg);
+	    bot.sendMessage(user, "Hey, Mein Meister ist leider nicht da aber du kannst ja sp√§ter wieder kommen :)", Steam.EChatEntryType.ChatMsg);
         if (message == 'na')
-	    bot.sendMessage(user, "Na, Mein Meister ist leider nicht da aber du kannst ja sp‰ter wieder kommen :)", Steam.EChatEntryType.ChatMsg);
+	    bot.sendMessage(user, "Na, Mein Meister ist leider nicht da aber du kannst ja sp√§ter wieder kommen :)", Steam.EChatEntryType.ChatMsg);
         if (message == 'wie gehts')
 	    bot.sendMessage(user, "Mir geht es gut, ich muss jetzt wirklich weiter Arbeiten ok?", Steam.EChatEntryType.ChatMsg);
         if (message == 'Wie gehts')
 	    bot.sendMessage(user, "Mir geht es gut, ich muss jetzt wirklich weiter Arbeiten ok?", Steam.EChatEntryType.ChatMsg);
         if (message == 'ey')
-	    bot.sendMessage(user, "Ey, Mein Meister ist leider nicht da aber du kannst ja sp‰ter wieder kommen :).", Steam.EChatEntryType.ChatMsg);
+	    bot.sendMessage(user, "Ey, Mein Meister ist leider nicht da aber du kannst ja sp√§ter wieder kommen :).", Steam.EChatEntryType.ChatMsg);
         if (message == 'Hi')
-	    bot.sendMessage(user, "Hi, Mein Meister ist leider nicht da aber du kannst ja sp‰ter wieder kommen :).", Steam.EChatEntryType.ChatMsg);
+	    bot.sendMessage(user, "Hi, Mein Meister ist leider nicht da aber du kannst ja sp√§ter wieder kommen :).", Steam.EChatEntryType.ChatMsg);
         if (message == 'Hey')
-	    bot.sendMessage(user, "Hey, Mein Meister ist leider nicht da aber du kannst ja sp‰ter wieder kommen :).", Steam.EChatEntryType.ChatMsg);
+	    bot.sendMessage(user, "Hey, Mein Meister ist leider nicht da aber du kannst ja sp√§ter wieder kommen :).", Steam.EChatEntryType.ChatMsg);
         if (message == 'Na')
-	    bot.sendMessage(user, "Na, Mein Meister ist leider nicht da aber du kannst ja sp‰ter wieder kommen :).", Steam.EChatEntryType.ChatMsg);
+	    bot.sendMessage(user, "Na, Mein Meister ist leider nicht da aber du kannst ja sp√§ter wieder kommen :).", Steam.EChatEntryType.ChatMsg);
         if (message == 'Ey')
-	    bot.sendMessage(user, "Ey! Mein Meister ist leider nicht da aber du kannst ja sp‰ter wieder kommen.", Steam.EChatEntryType.ChatMsg);
+	    bot.sendMessage(user, "Ey! Mein Meister ist leider nicht da aber du kannst ja sp√§ter wieder kommen.", Steam.EChatEntryType.ChatMsg);
         if (message == 'Wie gehts?')
 	    bot.sendMessage(user, "Mir geht es gut, ich muss jetzt wirklich weiter Arbeiten ok?", Steam.EChatEntryType.ChatMsg);
         if (message == 'wie gehts?')
@@ -111,7 +111,7 @@ bot.on('sentry', function(sentryHash)
     } else {
       console.log('[BOT] Speichere Sentry auf Festplatte.');
       console.log('[BOT] Sentry gespeichert.');
-	  console.log('[BOT] Bot gestartet.');
+      console.log('[BOT] Bot gestartet.');
     }});
 });
 
@@ -124,7 +124,7 @@ console.log('[BOT] Fehler - Login Fehlgeschlagen');
     }
     else if (e.eresult == Steam.EResult.AlreadyLoggedInElsewhere)
     {
-    console.log('Grund: Bereits auf einem anderem Ger‰t Angemeldet');
+    console.log('Grund: Bereits auf einem anderem Ger√§t Angemeldet');
     }
     else if (e.eresult == Steam.EResult.AccountLogonDenied)
     {
