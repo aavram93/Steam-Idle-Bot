@@ -5,6 +5,8 @@ ________
 3. Paste the Steam Guard Code into the "Account.js"
 4. Delete the sentryfile
 5. Start the Bot
+ 
+After Step 5 The Bot will create a new sentryfile for your Account
 
 ________
 # Bugs:
