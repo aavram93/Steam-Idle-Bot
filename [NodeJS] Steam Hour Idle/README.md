@@ -1,14 +1,8 @@
 # Steam Hour Idle Script
 ________
-Most of the Code is German cause i am German :P
+Update Coming!
 ________
-# You need:
-
--NodeJS
-
--steam@v0.6.8
-
--fs
+Most of the Code is German cause i am German :P
 ________
 # Bugs:
 
