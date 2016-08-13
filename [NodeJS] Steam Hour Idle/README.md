@@ -8,5 +8,7 @@ ________
 
 -Steam Guard function not working
 ________
+# Copyright:
 NodeJS Portable Creator
+
 https://github.com/garethflowers/nodejs-portable/
