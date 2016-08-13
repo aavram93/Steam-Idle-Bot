@@ -1,3 +1,3 @@
 # Scripts
 ________
--[NodeJS] Steam Hour Idler 
+-[NodeJS] Steam Hour Idle Bot
