@@ -1,4 +1,4 @@
-# Steam Hour Idle Script
+# Steam Hour Idle Bot
 ________
 You just need to Edit the "Account.js"
 ________
