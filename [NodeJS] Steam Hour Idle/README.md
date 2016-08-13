@@ -1,10 +1,14 @@
-# Steam Hour Idle Bot
+# Installation:
 ________
-You just need to Edit the "Account.js"
+1. Edit the "Account.js"
+2. Start the Bot
+3. Paste the Steam Guard Code into the "Account.js"
+4. Delete the sentryfile
+5. Start the Bot
 ________
 # Bugs:
 
--Steam Guard function not working
+-Steam Guard function not working like it should
 ________
 # Copyright:
 
