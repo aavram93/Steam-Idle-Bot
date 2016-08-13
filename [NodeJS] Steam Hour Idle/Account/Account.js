@@ -111,6 +111,7 @@ bot.on('sentry', function(sentryHash)
     } else {
       console.log('[BOT] Speichere Sentry auf Festplatte.');
       console.log('[BOT] Sentry gespeichert.');
+	  console.log('[BOT] Bot gestartet.');
     }});
 });
 
