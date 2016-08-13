@@ -109,7 +109,7 @@ bot.on('sentry', function(sentryHash)
     if(err){
       console.log(err);
     } else {
-      console.log('[FS] Speichere Sentry auf Festplatte.');
+      console.log('[BOT] Speichere Sentry auf Festplatte.');
       console.log('[BOT] Sentry gespeichert.');
     }});
 });
