@@ -1,5 +1,8 @@
 # Installation:
 ________
+
+Edit the "Account.js" with Notepad++ no Prevent Errors
+
 1. Edit the "Account.js"
 2. Start the Bot
 3. Paste the Steam Guard Code into the "Account.js"
