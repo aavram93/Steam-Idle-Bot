@@ -1,7 +1,7 @@
 # Installation:
 ________
 
-Edit the "Account.js" with Notepad++ no Prevent Errors
+Edit the "Account.js" with Notepad++ to Prevent Errors
 
 1. Edit the "Account.js"
 2. Start the Bot
