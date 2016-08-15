@@ -1,3 +1,7 @@
+# This is a Standalone NodeJS Script!
+
+there may be Errors if you have the Normal NodeJs Version installed.
+
 # Installation:
 ________
 
