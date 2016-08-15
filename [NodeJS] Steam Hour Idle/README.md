@@ -1,4 +1,4 @@
-# This is a Standalone NodeJS Script!
+# This is a Standalone NodeJS Bot!
 
 there may be Errors if you have the Normal NodeJs Version installed.
 
