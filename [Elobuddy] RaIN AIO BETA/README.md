@@ -32,7 +32,7 @@ To-Do:
 
 -Make it Compact [✔] (https://github.com/LeagueRaINi/Elobuddy-Scripts/tree/master/RaIN%20AIO%20BETA)
 
--Learn Coding
+-Update it
 
 -Add New Features
 
