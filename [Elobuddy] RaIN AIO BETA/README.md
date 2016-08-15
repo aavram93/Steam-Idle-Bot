@@ -1,4 +1,4 @@
-# Elobuddy-Scripts
+# Elobuddy-Script
 
 -Work in Progress
 
