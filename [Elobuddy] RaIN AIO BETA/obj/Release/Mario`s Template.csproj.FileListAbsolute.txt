@@ -1,0 +1,13 @@
+C:\Users\RaINi\Desktop\Script Erstellen\Test Script\Mario`s Template\Mario`s Template\bin\Release\Mario`s Template.exe.config
+C:\Users\RaINi\Desktop\Script Erstellen\Test Script\Mario`s Template\Mario`s Template\bin\Release\Mario`s Template.exe
+C:\Users\RaINi\Desktop\Script Erstellen\Test Script\Mario`s Template\Mario`s Template\bin\Release\Mario`s Template.pdb
+C:\Users\RaINi\Desktop\Script Erstellen\Test Script\Mario`s Template\Mario`s Template\bin\Release\EloBuddy.dll
+C:\Users\RaINi\Desktop\Script Erstellen\Test Script\Mario`s Template\Mario`s Template\bin\Release\EloBuddy.SDK.dll
+C:\Users\RaINi\Desktop\Script Erstellen\Test Script\Mario`s Template\Mario`s Template\bin\Release\Mario`s Lib.dll
+C:\Users\RaINi\Desktop\Script Erstellen\Test Script\Mario`s Template\Mario`s Template\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\RaINi\Desktop\Script Erstellen\Test Script\Mario`s Template\Mario`s Template\bin\Release\SharpDX.dll
+C:\Users\RaINi\Desktop\Script Erstellen\Test Script\Mario`s Template\Mario`s Template\bin\Release\Newtonsoft.Json.dll
+C:\Users\RaINi\Desktop\Script Erstellen\Test Script\Mario`s Template\Mario`s Template\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\RaINi\Desktop\Script Erstellen\Test Script\Mario`s Template\Mario`s Template\obj\Release\Mario`s Template.csprojResolveAssemblyReference.cache
+C:\Users\RaINi\Desktop\Script Erstellen\Test Script\Mario`s Template\Mario`s Template\obj\Release\Mario`s Template.exe
+C:\Users\RaINi\Desktop\Script Erstellen\Test Script\Mario`s Template\Mario`s Template\obj\Release\Mario`s Template.pdb
