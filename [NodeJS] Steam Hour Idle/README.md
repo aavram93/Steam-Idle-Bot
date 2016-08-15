@@ -15,7 +15,7 @@ Edit the "Account.js" with Notepad++ to Prevent Errors
 4. Delete the sentryfile
 5. Start the Bot
  
-After Step 5 The Bot will create a new sentryfile for your Account
+After Step 5 The Bot will create a new sentryfile for your Account so dont worry about that.
 
 ________
 # Bugs:
