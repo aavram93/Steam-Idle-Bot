@@ -1,6 +1,0 @@
-C:\Users\RaINi\Desktop\Script Erstellen\Test Script\Mario`s Template\Mario`s Template\bin\Debug\Mario`s Template.exe.config
-C:\Users\RaINi\Desktop\Script Erstellen\Test Script\Mario`s Template\RaIN AIO\bin\Debug\Mario`s Template.exe.config
-C:\Users\RaINi\Desktop\RaIN AIO\bin\Debug\Mario`s Template.exe.config
-C:\Users\RaINi\Desktop\RaIN AIO Test\bin\Debug\Mario`s Template.exe.config
-C:\Users\RaINi\Desktop\RaIN AIO Test - Kopie\bin\Debug\Mario`s Template.exe.config
-C:\Users\RaINi\Desktop\RaIN AIO BETA\bin\Debug\Mario`s Template.exe.config
