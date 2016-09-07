@@ -1,6 +1,8 @@
 # This is a Standalone NodeJS Bot!
 
-there may be Errors if you have the Normal NodeJs Version installed.
+!There may be Errors if you have the Normal NodeJs Version installed.
+
+!This does not Work with the Mobile Authenticator
 
 ________
 
