@@ -30,7 +30,7 @@ else
 
 bot.on('loggedOn', function() {
     console.log('[BOT] Erfolgreich Angemeldet.');
-    // Anzeigend das der Bot Online ist
+    // Anzeigen das der Bot Online ist
     bot.setPersonaState(Steam.EPersonaState.Online);
     // Name Wechseln
     bot.setPersonaName('Just a Bot');
