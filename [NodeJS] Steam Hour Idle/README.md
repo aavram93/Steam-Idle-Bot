@@ -4,6 +4,8 @@
 
 !This does not Work with the Mobile Authenticator
 
+![Preview](http://i.imgur.com/VK73L6b.png)
+
 ________
 
 # Installation:
