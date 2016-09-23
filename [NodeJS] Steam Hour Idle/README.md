@@ -2,7 +2,7 @@
 
 !There may be Errors if you have the Normal NodeJs Version installed.
 
-!This does not Work with the Mobile Authenticator
+!This does not Work with the Mobile Authenticator & 2 Step-Auth.
 
 ![Preview](http://i.imgur.com/VK73L6b.png)
 
