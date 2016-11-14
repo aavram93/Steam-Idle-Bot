@@ -72,32 +72,16 @@ bot.on('friendMsg', function(user, message, type) {
         fs.appendFile("Nachrichten.txt", user + ": " + message + "\n");
         
         // Automatische Nachricht Senden
-        if (message == 'hi')
-	    bot.sendMessage(user, "Hi, Mein Meister ist leider nicht da aber du kannst ja später wieder kommen :).", Steam.EChatEntryType.ChatMsg);
-        if (message == 'hey')
-	    bot.sendMessage(user, "Hey, Mein Meister ist leider nicht da aber du kannst ja später wieder kommen :)", Steam.EChatEntryType.ChatMsg);
-        if (message == 'na')
-	    bot.sendMessage(user, "Na, Mein Meister ist leider nicht da aber du kannst ja später wieder kommen :)", Steam.EChatEntryType.ChatMsg);
-        if (message == 'wie gehts')
-	    bot.sendMessage(user, "Mir geht es gut, ich muss jetzt wirklich weiter Arbeiten ok?", Steam.EChatEntryType.ChatMsg);
-        if (message == 'Wie gehts')
-	    bot.sendMessage(user, "Mir geht es gut, ich muss jetzt wirklich weiter Arbeiten ok?", Steam.EChatEntryType.ChatMsg);
-        if (message == 'ey')
-	    bot.sendMessage(user, "Ey, Mein Meister ist leider nicht da aber du kannst ja später wieder kommen :).", Steam.EChatEntryType.ChatMsg);
-        if (message == 'Hi')
-	    bot.sendMessage(user, "Hi, Mein Meister ist leider nicht da aber du kannst ja später wieder kommen :).", Steam.EChatEntryType.ChatMsg);
-        if (message == 'Hey')
-	    bot.sendMessage(user, "Hey, Mein Meister ist leider nicht da aber du kannst ja später wieder kommen :).", Steam.EChatEntryType.ChatMsg);
-        if (message == 'Na')
-	    bot.sendMessage(user, "Na, Mein Meister ist leider nicht da aber du kannst ja später wieder kommen :).", Steam.EChatEntryType.ChatMsg);
-        if (message == 'Ey')
-	    bot.sendMessage(user, "Ey! Mein Meister ist leider nicht da aber du kannst ja später wieder kommen.", Steam.EChatEntryType.ChatMsg);
-        if (message == 'Wie gehts?')
-	    bot.sendMessage(user, "Mir geht es gut, ich muss jetzt wirklich weiter Arbeiten ok?", Steam.EChatEntryType.ChatMsg);
-        if (message == 'wie gehts?')
-	    bot.sendMessage(user, "Mir geht es gut, ich muss jetzt wirklich weiter Arbeiten ok?", Steam.EChatEntryType.ChatMsg);
-        if (message == 'Wie gehts')
-	    bot.sendMessage(user, "Mir geht es gut, ich muss jetzt wirklich weiter Arbeiten ok?", Steam.EChatEntryType.ChatMsg);
+	var IncomingMessage = message.toString();
+	    
+        if (IncomingMessage == "")
+	{
+			
+	}
+	else
+	{
+		bot.sendMessage(user, "Grad am Botten, schreib mich bitte später wieder an", Steam.EChatEntryType.ChatMsg);
+	}
     }
 });
 
